@@ -6,6 +6,7 @@ Source:		http://www.upfrontsystems.co.za/Members/izak/libpam-script_%{version}.t
 Summary:	PAM module to executes a script at the start and end of a session
 License:	GPL+
 Group:		System/Libraries
+BuildRequires:	pam-devel
 %description
 pam_script is a PAM that executes a script at the start and end of a
 session. Any PAM-aware application can use the module to perform
