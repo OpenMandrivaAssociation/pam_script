@@ -30,3 +30,31 @@ user logs out.
 %doc README CREDITS examples
 /%{_lib}/security/pam_script.so
 %{_mandir}/man5/pam_script.5*
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1.12-4mdv2011.0
++ Revision: 614471
+- the mass rebuild of 2010.1 packages
+
+* Tue Nov 10 2009 Michael Scherer <misc@mandriva.org> 0.1.12-3mdv2010.1
++ Revision: 463858
+- rebuild
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - rebuild
+
+* Mon Oct 13 2008 Nicolas Vigier <nvigier@mandriva.com> 0.1.12-1mdv2009.1
++ Revision: 293370
+- new version 0.1.12
+
+* Wed Jul 30 2008 Thierry Vignaud <tv@mandriva.org> 0.1.11-3mdv2009.0
++ Revision: 254986
+- rebuild
+- fix no-buildroot-tag
+
+* Tue Dec 04 2007 Nicolas Vigier <nvigier@mandriva.com> 0.1.11-1mdv2008.1
++ Revision: 115405
+- import pam_script
+
+
