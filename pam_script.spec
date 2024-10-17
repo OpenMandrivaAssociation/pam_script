@@ -1,7 +1,7 @@
 Name:		pam_script
 Version:	0.1.12
 Release:	5
-URL:		http://freshmeat.net/projects/pam_script
+URL:		https://freshmeat.net/projects/pam_script
 Source:		http://www.upfrontsystems.co.za/Members/izak/libpam-script_%{version}.tar.gz
 Summary:	PAM module to executes a script at the start and end of a session
 License:	GPL+
